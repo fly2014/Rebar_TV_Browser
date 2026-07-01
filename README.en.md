@@ -26,5 +26,5 @@ If QR fails: install app, connect TV to WiFi, unplug power and restart once.
 
 Links
 
-Official introduction: https://tv.gjllq.com/
+Official introduction: https://en-tv.gjllq.com/
 Releases download: https://github.com/fly2014/Rebar_TV_Browser/releases/tag/v23
