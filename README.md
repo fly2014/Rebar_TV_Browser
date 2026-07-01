@@ -14,3 +14,5 @@ Rebar TV Browser
 手机扫码添加网站-必须和电视链接同一个wifi路由器才行！
 无法扫码：安装app和电视链接wifi后拔掉电源重启一次！
 钢筋电视浏览器介绍：https://tv.gjllq.com/
+releases版本下载
+https://github.com/fly2014/Rebar_TV_Browser/releases/tag/v23
