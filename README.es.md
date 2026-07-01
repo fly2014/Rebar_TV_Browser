@@ -26,5 +26,5 @@ Si falla QR: reiniciar después de conectar WiFi.
 
 Enlaces
 
-Introducción: https://tv.gjllq.com/
+Introducción: https://es-tv.gjllq.com/
 Releases: https://github.com/fly2014/Rebar_TV_Browser/releases/tag/v23
