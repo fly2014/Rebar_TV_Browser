@@ -26,5 +26,5 @@ Jika gagal QR, restart setelah koneksi WiFi.
 
 Link
 
-Pengantar: https://tv.gjllq.com/
+Pengantar: https://id-tv.gjllq.com/
 Releases: https://github.com/fly2014/Rebar_TV_Browser/releases/tag/v23
